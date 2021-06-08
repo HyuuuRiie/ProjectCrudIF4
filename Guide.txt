@@ -1,0 +1,1 @@
+file index.php berguna untuk keamanan
